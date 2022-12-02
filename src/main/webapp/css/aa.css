@@ -1,0 +1,13 @@
+@charset "EUC-KR";
+
+
+#menu{
+	border-bottom: black solid 1px;
+}
+
+#menu a{
+	font-size:15pt;
+	text-decoration:none;
+	margin-left:50px;
+	margin-right:50px;
+}
